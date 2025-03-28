@@ -13,8 +13,9 @@
 3. Method/Constructor References
 4. Lambdas: expressions(need interface + method), Method References, Constructor References
 5. Functional Interfaces:
+
 | Functional Interface | Method | Purpose |
-| — — — | — — — — — -| — — — — — |
+| ------------- | ------------- | ------------- |
 | Predicate<T> | boolean test(T t) | Condition check |
 | Consumer<T> | void accept(T t) | Performs an action |
 | Function<T, R> | R apply(T t) | Data transformation |
